@@ -1,4 +1,4 @@
-# ReactFeedbackForm
+# Mocha Cafe
 
 This project serves as a template for building a React web application designed for soft drinks details.
 
